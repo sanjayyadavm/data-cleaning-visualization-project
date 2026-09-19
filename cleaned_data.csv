@@ -1,0 +1,12 @@
+Order_ID,Date,Category,Quantity,Unit_Price,Region,Customer_Rating,Sales,Month
+A001,2026-01-05,Electronics,2.0,500,South,4.5,1000.0,2026-01
+A002,2026-01-07,Clothing,1.0,800,North,4.0,800.0,2026-01
+A003,2026-01-08,Electronics,3.0,450,East,5.0,1350.0,2026-01
+A005,2026-01-12,Food,5.0,120,South,4.15,600.0,2026-01
+A006,2026-01-14,Clothing,2.0,650,West,3.5,1300.0,2026-01
+A007,2026-01-15,Food,2.0,90,South,4.2,180.0,2026-01
+A008,2026-01-18,Electronics,2.0,700,North,4.8,1400.0,2026-01
+A009,2026-01-20,Clothing,1.0,750,West,2.0,750.0,2026-01
+A010,2026-01-22,Electronics,4.0,300,East,4.1,1200.0,2026-01
+A011,2026-01-25,Food,2.0,110,South,3.8,220.0,2026-01
+A012,2026-01-28,Electronics,5.75,50,South,5.0,287.5,2026-01
